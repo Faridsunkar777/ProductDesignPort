@@ -11,7 +11,7 @@ so it works under `https://faridsunkar777.github.io/portforlio/`. The one except
 - `about.html`: about
 - `contact.html`: contact
 - `work/luna.html`, `work/cabby.html`, `work/swiftsekai.html`, `work/peekashape.html`,
-  `work/monos.html`, `work/moneybud.html`: case studies
+  `work/monos.html`, `work/moneybud.html`, `work/gymy.html`: case studies
 - `luna.html`, `cabby.html`, `SwiftSekai.html`, `peekashape.html`, `monos.html`, `feli.html`:
   redirects from the old URLs
 

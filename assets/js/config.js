@@ -29,6 +29,7 @@ window.SITE_CONFIG = {
     /* TODO(Farid): the old link (figma.com/proto/Peek-A-Shape-prototype) was a placeholder. */
     peekashape: null,
     monos: "https://www.figma.com/proto/DsmvnZHiWLBDbVWiQJpd3s/MONOS?page-id=0%3A1&type=design&node-id=1-4&viewport=487%2C329%2C0.1&t=FuKZPcgOK6rywi6j-1&scaling=scale-down&starting-point-node-id=1%3A4&mode=design",
-    moneybud: "https://www.figma.com/proto/0F9rTxmvVCNeDHC8KLPOmQ/felis-money-app?page-id=37%3A1725&node-id=108-3649&viewport=282%2C255%2C0.12&t=afgZEck957kmU4mu-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=108%3A3649"
+    moneybud: "https://www.figma.com/proto/0F9rTxmvVCNeDHC8KLPOmQ/felis-money-app?page-id=37%3A1725&node-id=108-3649&viewport=282%2C255%2C0.12&t=afgZEck957kmU4mu-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=108%3A3649",
+    gymy: null
   }
 };
